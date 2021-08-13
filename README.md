@@ -1,10 +1,10 @@
 # evil-engine
-Evil openSSL engine that drops a root shell when openssl can be executed with sudo or is saved with setuid.
+Evil openSSL engine that drops a root shell when openssl can either be executed with sudo or is saved with setuid.
 Can be used for local privilege escalation 
 
 In some rare cases, administrators allow a local user to run openssl with root level privileges, this engine allows you get a root shell.
 
-**This is for educational purposes only**
+***For educational purposes only***
 
 
 ## Dependencies

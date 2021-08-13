@@ -8,7 +8,7 @@ In some rare cases, administrators allow a local user to run openssl with root l
 
 
 ## Dependencies
-openssl header files
+- openssl header files
 
 **Note**
 There could be some version dependencies so make sure you use the same openssl version (engine.h).  

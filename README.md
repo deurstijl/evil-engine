@@ -6,6 +6,7 @@ In some rare cases, administrators allow a local user to run openssl with root l
 
 ***For educational purposes only***
 
+*I know there are other ways to get a root shell when openssl can be executed with sudo, but this doesn't have much impact on the system*
 
 ## Dependencies
 - openssl header files

@@ -19,7 +19,7 @@ To configure openssl for 32 bit on a 64 bit system use:
 setarch i386 ./config -m32
 ```
 
-Then use gcc -m32 to compile this evil-engine
+Then use gcc -m32 to compile this evil-engine for 32 bit Linux in the following commands:
 
 ## Create the engine
 
